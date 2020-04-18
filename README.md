@@ -10,9 +10,9 @@ El presente proyecto contiene principalmente apuntes y textos de referencia, esc
 ## Primer semestre
 | Asignatura | Profesor | Fecha | Links
 |------------|----------|-------|-------|
-| Seminario de Análisis del Discurso | Felipe Hasler, Guillermo Soto | 1er, 2020 | [Github](https://github.com/matusDeveloper/uchile_linguistic/seminario_analisis_del_discurso)
-| Seminario de Español de América | Alfredo Matus | 1er, 2020 | [Github](https://github.com/matusDeveloper/uchile_linguistic/seminario_español_de_america)
-| Seminario de Linguística aplicada | Claudia Flores, Rosa Bahamondes | 1er, 2020 | [Github](https://github.com/matusDeveloper/uchile_linguistic/seminario_de_linguistica_aplicada)
-| Seminario de Métodos de investigación | Silvana Guerrero | 1er, 2020 | [Github](https://github.com/matusDeveloper/uchile_linguistic/seminario_de_metodos_de_investigacion)
-| Taller: Edición y Elaboración de Proyectos Culturales | Romina Pistacchio | 1er, 2020 | [Github](https://github.com/matusDeveloper/uchile_linguistic/taller_edicion_y_proyectos_culturales)
+| Seminario de Análisis del Discurso | Felipe Hasler, Guillermo Soto | 1er, 2020 | [Github](https://github.com/matusDeveloper/uchile_linguistic/seminario_analisis_del_discurso/README.md)
+| Seminario de Español de América | Alfredo Matus | 1er, 2020 | [Github](https://github.com/matusDeveloper/uchile_linguistic/seminario_español_de_america/README.md)
+| Seminario de Linguística aplicada | Claudia Flores, Rosa Bahamondes | 1er, 2020 | [Github](https://github.com/matusDeveloper/uchile_linguistic/seminario_de_linguistica_aplicada/README.md)
+| Seminario de Métodos de investigación | Silvana Guerrero | 1er, 2020 | [Github](https://github.com/matusDeveloper/uchile_linguistic/seminario_de_metodos_de_investigacion/README.md)
+| Taller: Edición y Elaboración de Proyectos Culturales | Romina Pistacchio | 1er, 2020 | [Github](https://github.com/matusDeveloper/uchile_linguistic/taller_edicion_y_proyectos_culturales/README.md)
 
