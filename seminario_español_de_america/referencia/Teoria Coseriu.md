@@ -35,3 +35,7 @@ Una lengua activa es un ser *viviente*, el cambio es innherente en ella, a excep
 | Situaciones | Diafásico | Pragmático | Formal / informal
 
 Así, este curso se constituye al estudio de la lengua española en su territorio americano (diatópico), con sus cambios a través del tiempo (diacrónico), diferencias dialectales, situacionales y cualquier otro filtro estipulado en lo *variacionista* estipulado por Coseriu.
+
+## Referencia
+
+- Apuntes clase N° 1
